@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PROJECTS\\.NET Core\\ArtNepal\\ArtNepal\\ArtNepal.csproj",
+      "projectUniqueName": "E:\\PROJECTS\\.NET Core\\ArtNepal(Github)\\ArtNepal\\ArtNepal\\ArtNepal.csproj",
       "projectName": "ArtNepal",
-      "projectPath": "E:\\PROJECTS\\.NET Core\\ArtNepal\\ArtNepal\\ArtNepal.csproj",
+      "projectPath": "E:\\PROJECTS\\.NET Core\\ArtNepal(Github)\\ArtNepal\\ArtNepal\\ArtNepal.csproj",
       "packagesPath": "C:\\Users\\babis\\.nuget\\packages\\",
-      "outputPath": "E:\\PROJECTS\\.NET Core\\ArtNepal\\ArtNepal\\obj\\",
+      "outputPath": "E:\\PROJECTS\\.NET Core\\ArtNepal(Github)\\ArtNepal\\ArtNepal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\babis\\AppData\\Roaming\\NuGet\\NuGet.Config",
